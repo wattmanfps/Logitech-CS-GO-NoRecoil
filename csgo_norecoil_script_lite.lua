@@ -10,7 +10,7 @@ Sensitivity: 6
 Pointer Precision: OFF
 - For CS:GO:
 Aspect Ratio: 16:9
-Sensitivity: 3.09
+Sensitivity: 1.59
 Raw Input: ON
 Mouse Acceleration: OFF
 
